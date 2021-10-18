@@ -1,0 +1,55 @@
+li {
+    margin-left:55px;
+}
+.nav-item i{
+    border: 1px solid;
+    padding: 3px;
+}
+.img{
+    position: relative;
+    margin-left: 600px;
+}
+.carousel-inner img{
+margin-right: 70px;
+}
+.col-sm-3{
+    text-align: justify;
+    color: white;
+    padding-left: 50px;
+    margin-top: 50px;
+}
+tr a{
+    color: rgb(20, 238, 202);
+    text-decoration: none;
+}
+.row i{
+    font-size: 20px;
+}
+.ff{
+    color: white;
+    background: #000;
+    padding-left: 80px;
+}
+.card{
+    margin-right: 2px;
+}
+#demo{
+    margin-right: 300px;
+}
+.navbar{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+    z-index: 4;
+    
+}
+nav{
+    background-color: rgb(15, 15, 22);
+}
+li a{
+    color: cornsilk;
+}

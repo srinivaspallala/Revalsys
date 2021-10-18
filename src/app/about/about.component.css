@@ -1,0 +1,70 @@
+.img{
+    padding-left: 250px;
+}
+.bord{display: -moz-groupbox;
+    text-align: center;
+    border: 2px solid black;
+    
+}
+.col-sm-4{
+    color: aliceblue;
+    margin-bottom: 30px;
+}
+.container h2{
+    color: black;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.view{
+    padding-left: 210px;
+    padding-bottom: 60px;
+    
+}
+.view h1{
+    padding-left: 500px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+.container h1{
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 3px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container h3{
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 3px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.padding{
+    padding-left: 50px;
+}
+.card img{
+    box-shadow: rgba(5, 96, 233, 0.24) 0px 3px 8px;
+}
+.col-sm-12{
+    text-align: center;
+}
+.bg{
+    border: 2px solid;
+    display: inline;
+    padding: 3px;
+    background-color: rgb(98, 98, 151);
+    color: cornsilk;
+}
+#cont{
+    background-color: cyan;
+    padding-bottom: 30px;
+}
+.contact{
+    text-align: center;
+}
+.contact h1{
+    text-align: center;
+}
+.padding{
+    text-align: left;
+    color: white;
+    background-color: grey;
+}
